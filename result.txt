@@ -1,0 +1,27 @@
+打印 2018 级选修 C 语言且成绩小于 60 分的学生
+10914	dahong	Male	1993/2/3	2018	guangdong	364	14.5
+
+统计课程平均分大于 80 的学生个人信息并输出
+10908	jianfa	Male	1995/7/2	2017	hunan	397	14.5
+
+10914	dahong	Male	1993/2/3	2018	guangdong	364	14.5
+
+10917	xingfeng	Male	1995/2/4	2017	jiangsu	400	14.5
+
+10919	xiaomi	Female	1993/2/5	2016	beijing	417	14.5
+
+10921	dabin	Male	1992/2/6	2015	hainan	333	12.5
+
+查询每个学生是否修满 20 学分
+10905	xiaomei	Female	1994/2/1	2018	hunan	288	12.5
+  未修满学分
+10908	jianfa	Male	1995/7/2	2017	hunan	397	14.5
+  未修满学分
+10914	dahong	Male	1993/2/3	2018	guangdong	364	14.5
+  未修满学分
+10917	xingfeng	Male	1995/2/4	2017	jiangsu	400	14.5
+  未修满学分
+10919	xiaomi	Female	1993/2/5	2016	beijing	417	14.5
+  未修满学分
+10921	dabin	Male	1992/2/6	2015	hainan	333	12.5
+  未修满学分
